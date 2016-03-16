@@ -1,6 +1,7 @@
 {
   "name": "jquery-import",
   "description": "reference jquery library using html imports",
+  "version": "1.0.0",
   "main": "jquery-import.html",
   "authors": [
     "S. Francis"
@@ -13,7 +14,7 @@
     "html imports"
   ],
   "moduleType": [],
-  "homepage": "",
+  "homepage": "https://github.com/ellipticaljs/jquery-import",
   "ignore": [
     "**/.*",
     "node_modules",
