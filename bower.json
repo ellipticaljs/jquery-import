@@ -1,0 +1,27 @@
+{
+  "name": "jquery-import",
+  "description": "reference jquery library using html imports",
+  "main": "jquery-import.html",
+  "authors": [
+    "S. Francis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "web",
+    "components",
+    "jquery",
+    "html imports"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.1"
+  }
+}
