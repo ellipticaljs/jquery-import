@@ -1,7 +1,7 @@
 {
   "name": "jquery-import",
   "description": "reference jquery library using html imports",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "jquery-import.html",
   "authors": [
     "S. Francis"
@@ -23,6 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.2.1"
+    "jquery": "^3.1.1"
   }
 }
