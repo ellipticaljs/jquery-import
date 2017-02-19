@@ -1,7 +1,7 @@
 {
   "name": "jquery-import",
   "description": "reference jquery library using html imports",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "jquery-import.html",
   "authors": [
     "S. Francis"
